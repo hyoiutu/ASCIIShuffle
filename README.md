@@ -1,0 +1,2 @@
+# ASCIIShuffle
+ASCIIDartsで用いるASCIIコードをランダムで取り出して表示するプログラム
